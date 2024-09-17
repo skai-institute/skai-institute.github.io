@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>SkAI Institute</title>
+	<updated>2024-09-17T16:58:00-05:00</updated>
+
+	<subtitle>The SkAI Institute for AI in Astronomy</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Chase Kimball</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/news/NSF-Simons_Solicitation/</id>
+			<title>NSF and Simons Foundation to Sponsor National AI Institutes in Astronomy</title>
+			<link href="http://localhost:4000/news/NSF-Simons_Solicitation/" rel="alternate" type="text/html" title="NSF and Simons Foundation to Sponsor National AI Institutes in Astronomy" />
+			<updated>2023-10-31T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Chase Kimball</name>
+					
+					
+					
+				</author>
+			
+			<summary>Joint sponsorship will fund up to two national institutes</summary>
+			<content type="html" xml:base="http://localhost:4000/news/NSF-Simons_Solicitation/">&lt;p&gt;The National Science Foundation (NSF) and the Simons Foundation Division of Mathematics and Physical Sciences have announced that they will jointly sponsor “up to two national AI research institutes in the astronomical sciences”, according to a solicitation posted by the Simons Foundation. See the &lt;a href=&quot;https://www.simonsfoundation.org/grant/nsf-simons-national-artificial-intelligence-ai-research-institutes-in-the-astronomical-sciences/&quot;&gt;full solicitation here&lt;/a&gt; for details.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-6 columns t30&quot;&gt;
+    &lt;img src=&quot;/images/nsf_logo.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;small-6 columns t30&quot;&gt;
+      &lt;img src=&quot;/images/simons_logo.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+</content>
+
+			
+				<category term="news" />
+			
+			
+
+			<published>2023-10-31T00:00:00-05:00</published>
+		</entry>
+	
+</feed>
