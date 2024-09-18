@@ -1,15 +1,14 @@
 - title: Home
   url: "/"
   side: left
-
-- title: About
-  url: "/about/"
-  side: left
-  dropdown:
-  - title: "Vision"
+  
+- title: "Vision"
     url: "/about/"
-  - title: "Partners"
+    side: left
+    
+- title: "Partners"
     url: "/institutions/"
+    side: left
 
 - title: People
   url: "/people/"
