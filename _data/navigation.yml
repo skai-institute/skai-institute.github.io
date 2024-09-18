@@ -3,12 +3,12 @@
   side: left
   
 - title: "Vision"
-    url: "/about/"
-    side: left
+  url: "/about/"
+  side: left
     
 - title: "Partners"
-    url: "/institutions/"
-    side: left
+  url: "/institutions/"
+  side: left
 
 - title: People
   url: "/people/"
