@@ -111,9 +111,9 @@ permalink           : "/people/"
 </div>
 
 <div class="employee-entry">
- <img src="../images/directory/YuxinC.jpg" alt="Yuxin Cheng Headshot" width="175">
+ <img src="../images/directory/YuxinC.jpg" alt="Yuxin Chen Headshot" width="175">
  <div class="employee-details">
-  <p><font size="5"> Yuxin Cheng </font>
+  <p><font size="5"> Yuxin Chen </font>
   <br> <em>University of Chicago</em></p>
  </div> 
 </div>
@@ -299,6 +299,14 @@ permalink           : "/people/"
  <div class="employee-details">
   <p><font size="5"> Sandeep Madireddy </font>
   <br> <em>Argonne National Laboratory</em></p>
+ </div> 
+</div>
+
+<div class="employee-entry">
+ <img src="../images/directory/JeffM.png" alt="Jeff McMahon Headshot" width="175">
+ <div class="employee-details">
+  <p><font size="5"> Jeff McMahon </font>
+  <br> <em>University of Chicago</em></p>
  </div> 
 </div>
 
