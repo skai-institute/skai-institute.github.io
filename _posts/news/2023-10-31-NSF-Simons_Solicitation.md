@@ -6,7 +6,7 @@ teaser: "Joint sponsorship will fund up to two national institutes"
 categories:
     - news
 header:
-   image_fullwidth: banners/MengAurora.png
+   image_fullwidth: banners/ImranElephantTrunk.png
 image:
 
     thumb: nsf_logo.png

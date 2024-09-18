@@ -1,12 +1,12 @@
 ---
-layout              : page
-sidebar             : left
+layout              : page-fullwidth
+
 show_meta           : false
 title               : "Careers at the SkAI Institute"
 #subheadline         : "A Step-by-Step Guide"
 #teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
-   image_fullwidth  : "banners/ImranMilkyWay.jpg"
+   image_fullwidth  : "banners/ImranMilkyWay.png"
 permalink           : "/jobs/"
 
 callforaction:

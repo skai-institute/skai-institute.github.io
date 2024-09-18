@@ -7,13 +7,13 @@
 layout: frontpage
 sidebar: left
 header:
-  image_fullwidth: banners/Fireflies.jpg
+  image_fullwidth: banners/ImranElephantTrunk2.jpg
 
 
 widget1:
   title: "Vision"
   url: '/about/'
-  image: SkAILogos/SkAI_Formal_RGB.png
+  image: magneticsquare.jpg
   text: "Read about the SkAI Institute's vision for the future of AI in astronomy"
 widget2:
   title: "People"
