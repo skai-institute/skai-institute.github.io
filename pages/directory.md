@@ -22,6 +22,14 @@ permalink           : "/people/"
 </div>
 
 <div class="employee-entry">
+ <img src="../images/directory/JoshF.png" alt="Josh Frieman Headshot" width="175">
+ <div class="employee-details">
+  <p><strong><font size="5"> Josh Frieman </font> </strong>
+  <br> <em>University of Chicago</em></p>
+ </div> 
+</div>
+
+<div class="employee-entry">
  <img src="../images/directory/AggelosK.png" alt="Aggelos Katsaggelos Headshot" width="175">
  <div class="employee-details">
   <p><strong><font size="5"> Aggelos Katsaggelos </font> </strong>
@@ -30,10 +38,10 @@ permalink           : "/people/"
 </div>
 
 <div class="employee-entry">
- <img src="../images/directory/JoshF.png" alt="Josh Frieman Headshot" width="175">
+ <img src="../images/directory/GauthamN.png" alt="Gautham Narayan Headshot" width="175">
  <div class="employee-details">
-  <p><strong><font size="5"> Josh Frieman </font> </strong>
-  <br> <em>University of Chicago</em></p>
+  <p><strong><font size="5"> Gautham Narayan </font> </strong>
+  <br> <em>University of Illinois Urbana-Champaign</em></p>
  </div> 
 </div>
 
@@ -45,13 +53,6 @@ permalink           : "/people/"
  </div> 
 </div>
 
-<div class="employee-entry">
- <img src="../images/directory/GauthamN.png" alt="Gautham Narayan Headshot" width="175">
- <div class="employee-details">
-  <p><strong><font size="5"> Gautham Narayan </font> </strong>
-  <br> <em>University of Illinois Urbana-Champaign</em></p>
- </div> 
-</div>
 
 <div class="employee-entry">
  <img src="../images/directory/EmmaA.png" alt="Emma Alexander Headshot" width="175">
