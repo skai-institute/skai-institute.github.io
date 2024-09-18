@@ -281,7 +281,7 @@ permalink           : "/people/"
  <img src="../images/directory/KarenL.jpg" alt="Karen Livescu Headshot" width="175">
  <div class="employee-details">
   <p><font size="5"> Karen Livescu </font>
-  <br> <em>oyota Technological Institute at Chicago</em></p>
+  <br> <em>Toyota Technological Institute at Chicago</em></p>
  </div> 
 </div>
 
@@ -361,7 +361,7 @@ permalink           : "/people/"
  <img src="../images/directory/GregS.jpg" alt="Greg Shakhnarovich Headshot" width="175">
  <div class="employee-details">
   <p><font size="5"> Greg Shakhnarovich </font>
-  <br> <em>oyota Technological Institute at Chicago</em></p>
+  <br> <em>Toyota Technological Institute at Chicago</em></p>
  </div> 
 </div>
 
