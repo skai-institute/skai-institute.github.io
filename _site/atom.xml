@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>SkAI Institute</title>
-	<updated>2024-09-18T14:31:37-05:00</updated>
+	<updated>2024-09-25T16:12:49-05:00</updated>
 
 	<subtitle>The SkAI Institute for AI in Astronomy</subtitle>
 
@@ -12,7 +12,7 @@
 		
 		<author>
 			
-				<name>Chase Kimball</name>
+				<name>Chase B Kimball</name>
 			
 			
 			

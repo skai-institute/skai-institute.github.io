@@ -32,7 +32,30 @@ educators, AI-ethicists, software engineers, and artists to:
 
 3. Seed and nurture a diverse generation of interdisciplinary leaders in science and engineering to ethically apply and extend AI within and beyond academia.
 
+<img src="../images/skai-pillars.png" alt="SkAI-Pillars" class="center" width="500px">
+
 ## Research
+SkAI research is anchored in three cross-disciplinary pillars addressing Astro-AI challenges that bridge data, models, and experiments. Interdisciplinary teams spanning three astrophysics areas and three foundational AI areas will coalesce around these pillars.
+
+**Astro-AI Pillars:**
+* Enhanced Inference from Cosmic Survey Data
+
+* AI-Accelerated Simulations with Multi-Scale Astrophysics
+
+* Learning-Based Astrophysical Survey and Instrument Design
+
+
+
+Most of our research projects naturally bridge multiple pillars, and each pillar intentionally couples foundational AI and
+astrophysics through data, models, and experiments. SkAI's research encompasses both higher-risk, ambitious work advancing the forefront of AI
+and some lower-risk steps that will still advance astronomy in the short term. Innovation in each pillar also
+drives our open-source software development for use and adaptation throughout the astronomy community
+and beyond. These SkAI pillars will also catalyze our education work and community engagement while
+strengthening workforce development and broadening participation at all levels.
+
+
+### Astrophysics
+
 Driven by upcoming astronomy surveys, the SkAI Institute will overcome critical challenges in three
 astrophysics research areas:
 **Stars, Compact Objects and their Transients**,
@@ -42,9 +65,10 @@ through six key questions spanning more than 20 orders of magnitude in scales of
 
 <img src="../images/skairesearch.png" height=500>
 
-Advances in foundational AI (fAI), especially those driven by deep neural networks, are urgently needed
+### Foundational AI 
+Advances in foundational AI, especially those driven by deep neural networks, are urgently needed
 to address the astrophysics challenges posed by large surveys; SkAI’s Astro-AI interdisciplinary teams
-will build the requisite technical capabilities by pursuing innovations that span three critical fAI areas.
+will build the requisite technical capabilities by pursuing innovations that span three critical foundational AI areas.
 
 **Generative Models** will provide a scalable learning paradigm in which the primary objective is to
 output new samples from a distribution known only via a collection of training samples.
@@ -54,20 +78,21 @@ of rare events critical to discovering astrophysical phenomena. We will also lev
 for astronomy tasks such as missing data imputation, image reconstruction, and simulation acceleration.
 
 Overcoming the inscrutable nature of current deep generative models to enable physically interpretable
-scientific analyses will require fundamental advances in our second fAI area, 
+scientific analyses will require fundamental advances in our second foundational AI area, 
 **Astrophysics-Informed and Interpretable Architectures**. New techniques for weaving sophisticated astrophysical guidance (not
 just straightforward symmetries and constraints) into the structure of models are paramount to ensuring
 that such systems produce physically consistent predictions. 
 
-Our third fAI area, **Uncertainty Quantification** is critical to validate the reliability of model outputs, guide learning with few labels, and derive
+Our third foundational AI area, **Uncertainty Quantification** is critical to validate the reliability of model outputs, guide learning with few labels, and derive
 reliable astrophysical predictions. Distribution-free predictive inference, Bayesian methods, 
 and data assimilation must be integrated into learning systems to generate informative and actionable
 uncertainty estimates.
 
-SkAI will realize advances in each fAI area to open new paths to answering key
+SkAI will realize advances in each foundational AI area to open new paths to answering key
 astronomy questions. Combined, these areas will advance trustworthy AI systems that leverage domain
 knowledge and simulations alongside large-scale observational data. The intentional, cross-disciplinary
 approach adopted by the SkAI Institute will transform discovery, simulations, and experimental design
 across astrophysics and accelerate advances in other natural sciences.
+
 
 
