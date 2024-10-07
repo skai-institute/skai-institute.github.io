@@ -9,8 +9,10 @@ header:
    image_fullwidth  : "banners/hancock_skyline.jpg"
 permalink           : "/institutions/"
 ---
+<div id="lead"></div>
 
 ## Lead Institutions
+
 <div class="institution-entry">
  <img src="../images/InstitutionLogos/NU.png" alt="Northwestern University Logo" width="175">
  <div class="institution-details">
@@ -31,6 +33,9 @@ permalink           : "/institutions/"
   <p><strong><font size="5">University of Illinois Urbana-Champaign</font> </strong></p>
  </div> 
 </div>
+
+
+<div id="partner"></div>
 
 ## Partner Institutions
 
@@ -76,7 +81,9 @@ permalink           : "/institutions/"
  </div> 
 </div>
 
-## Satellite Institutions
+<div id="satellite"></div>
+
+## SKAI Satellite Network Institutions
 
 
 <div class="institution-entry">
