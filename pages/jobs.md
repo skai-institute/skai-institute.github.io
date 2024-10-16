@@ -33,3 +33,13 @@ For more details and to apply: [https://academicjobsonline.org/ajo/jobs/28812](h
 SkAI Postdoctoral Associates will have the opportunity to work with SkAI faculty on specific research projects aligned with the Institute’s Astro-AI [research](https://skai-institute.org/about/) mission. Associates will be employed by any of the three [SkAI lead institutions](https://skai-institute.org/institutions/#lead) (Northwestern U., the U. of Chicago, and the U. of Illinois at Urbana-Champaign) and can collaborate closely with SkAI personnel at any of the [SkAI partner institutions](http://skai-institute.org/institutions/#partner) depending on their expertise and active research projects. 
 
 For more details and to apply: [https://academicjobsonline.org/ajo/jobs/28810](https://academicjobsonline.org/ajo/jobs/28810)
+
+<br>
+<br>
+
+### Postdoctoral Preceptorships at the NSF-Simons SkAI Institute
+*Applications due December 6*
+
+This unique program, run in partnership with the University of Chicago’s [Data Science Institute](https://datascience.uchicago.edu/) and [City Colleges of Chicago](https://www.ccc.edu/) (CCC), emphasizes pedagogical best practices and allows Preceptors – postdoctoral scholars from a variety of STEM PhD backgrounds – the opportunity to broaden their classroom skills and enhance their teaching and scholarship portfolios with the support of SkAI and CCC faculty mentorship. SkAI Postdoctoral Preceptors will also have the opportunity to lead independent research aligned with SkAI’s broad Astro-AI [research](https://skai-institute.org/about/) mission. 
+
+For more details and to apply: [https://aas.org/jobregister/ad/748c4795](https://aas.org/jobregister/ad/748c4795)
