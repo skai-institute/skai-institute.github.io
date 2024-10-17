@@ -63,7 +63,9 @@ permalink           : "/people/"
 <br>
 <br>
 <br>
+
 <div class="employee-directory">
+  
   <div class="employee-entry">
   <img src="../images/directory/EmmaA.png" alt="Emma Alexander Headshot" width="175">
   <div class="employee-details">
@@ -214,6 +216,15 @@ permalink           : "/people/"
     <p><font size="5"> Claude-André Faucher-Giguère </font>
     <br> Northwestern University
     <br> <em>Senior Personnel</em></p>
+  </div> 
+  </div>
+
+  <div class="employee-entry">
+  <img src="../images/directory/GuillermoF.jpg" alt="Guillermo Fernandez-Moroni Headshot" width="175">
+  <div class="employee-details">
+    <p><font size="5"> Guillermo Fernandez-Moroni </font>
+    <br> Fermi National Accelerator Laboratory
+    <br> <em>Collaborator</em></p>
   </div> 
   </div>
 
@@ -443,15 +454,6 @@ permalink           : "/people/"
   </div>
 
   <div class="employee-entry">
-  <img src="../images/directory/GuillermoM.jpg" alt="Guillermo Fernandez Moroni Headshot" width="175">
-  <div class="employee-details">
-    <p><font size="5"> Guillermo Fernandez Moroni </font>
-    <br> Fermi National Accelerator Laboratory
-    <br> <em>Collaborator</em></p>
-  </div> 
-  </div>
-
-  <div class="employee-entry">
   <img src="../images/directory/WilliamM.png" alt="William Moses Headshot" width="175">
   <div class="employee-details">
     <p><font size="5"> William Moses </font>
@@ -510,15 +512,6 @@ permalink           : "/people/"
   <div class="employee-details">
     <p><font size="5"> Mark Potter </font>
     <br> City Colleges of Chicago
-    <br> <em>Satellite Network Member</em></p>
-  </div> 
-  </div>
-
-  <div class="employee-entry">
-  <img src="../images/directory/AmyQ.jpg" alt="Amy Yeboah Quarkume Headshot" width="175">
-  <div class="employee-details">
-    <p><font size="5"> Amy Yeboah Quarkume </font>
-    <br> Howard University
     <br> <em>Satellite Network Member</em></p>
   </div> 
   </div>
@@ -691,6 +684,15 @@ permalink           : "/people/"
     <p><font size="5"> Ermin Wei </font>
     <br> Northwestern University
     <br> <em>Senior Personnel</em></p>
+  </div> 
+  </div>
+
+  <div class="employee-entry">
+  <img src="../images/directory/AmyY.jpg" alt="Amy Yeboah Quarkume Headshot" width="175">
+  <div class="employee-details">
+    <p><font size="5"> Amy Yeboah Quarkume </font>
+    <br> Howard University
+    <br> <em>Satellite Network Member</em></p>
   </div> 
   </div>
 
