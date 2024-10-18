@@ -43,3 +43,13 @@ For more details and to apply: [https://academicjobsonline.org/ajo/jobs/28810](h
 This unique program, run in partnership with the University of Chicago’s [Data Science Institute](https://datascience.uchicago.edu/) and [City Colleges of Chicago](https://www.ccc.edu/) (CCC), emphasizes pedagogical best practices and allows Preceptors – postdoctoral scholars from a variety of STEM PhD backgrounds – the opportunity to broaden their classroom skills and enhance their teaching and scholarship portfolios with the support of SkAI and CCC faculty mentorship. SkAI Postdoctoral Preceptors will also have the opportunity to lead independent research aligned with SkAI’s broad Astro-AI [research](https://skai-institute.org/about/) mission. 
 
 For more details and to apply: [https://aas.org/jobregister/ad/748c4795](https://aas.org/jobregister/ad/748c4795)
+
+<br>
+<br>
+
+### Program Assistant Staff Position at the NSF-Simons SkAI Institute
+*Applications considered on rolling basis until position is filled*
+
+This position provides overall administrative support for the SkAI Institute. Responsibilities include assisting with day-to-day management of social media, internal and external communications; maintaining the SkAI website; maintaining office space; logistical support for events; assisting with scheduling and maintaining Institute calendar for all SkAI events and programs; drafting and maintaining institute records and documentation; and handling basic financial transactions and purchases.
+
+For more details and to apply: [Program Assistant Job Posting](https://careers.northwestern.edu/psp/hr857prd_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=51201&PostingSeq=1)
