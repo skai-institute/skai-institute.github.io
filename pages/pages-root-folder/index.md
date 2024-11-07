@@ -14,17 +14,17 @@ widget1:
   title: "Vision"
   url: '/about/'
   image: magneticsquare.jpg
-  text: "Read about the SkAI Institute's vision for the future of AI in astronomy"
+  text: "Read about the NSF-Simons SkAI Institute's vision for the future of AI in astronomy"
 widget2:
   title: "People"
   url: '/people/'
-  text: 'Meet the team behind the SkAI Institute'
+  text: 'Meet the team behind the NSF-Simons SkAI Institute'
   image: Hancock_small.jpg
 widget3:
   title: "News & Events"
   url: '/news/'
   image: supernova.png
-  text: 'Recent SkAI news and upcoming events'
+  text: 'Recent news and upcoming events at the NSF-Simons SkAI Institute'
 
 #
 # Use the call for action to show a button on the frontpage

@@ -2,7 +2,7 @@
 layout              : page-fullwidth
 sidebar             : left
 show_meta           : false
-title               : "The SkAI Team"
+title               : "The NSF-Simons SkAI Institute Team"
 subheadline         : "Directory"
 teaser              : ""
 header:

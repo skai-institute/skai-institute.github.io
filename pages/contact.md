@@ -5,7 +5,7 @@ header:
     image_fullwidth: "banners/FireSimulation.jpg"
 meta_title          : ""
 subheadline         : ""
-teaser              : "Sign up for email updates from the SkAI Institute"
+teaser              : "Sign up for email updates from the NSF-Simons SkAI Institute"
 permalink           : "/contact/"
 
 callforaction:
