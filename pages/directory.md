@@ -14,7 +14,7 @@ permalink           : "/people/"
 <div class="employee-directory">
 
   <div class="employee-entry">
-  <img src="../images/directory/VickyK.png" alt="Vicky Kalogera Headshot" width="175">
+  <img src="../images/directory/VickyK.jpg" alt="Vicky Kalogera Headshot" width="175">
   <div class="employee-details">
     <p><font size="5"> Vicky Kalogera </font>
     <br> Northwestern University
