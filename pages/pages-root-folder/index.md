@@ -7,7 +7,7 @@
 layout: frontpage
 sidebar: left
 header:
-  image_fullwidth: banners/ImranElephantTrunk2.jpg
+  image_fullwidth: banners/ImranMilkyWay.png
 
 
 widget1:

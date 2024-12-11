@@ -6,7 +6,7 @@ title               : "Opportunities at the NSF-Simons SkAI Institute"
 #subheadline         : "A Step-by-Step Guide"
 #teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
-   image_fullwidth  : "banners/ImranMilkyWay.png"
+   image_fullwidth  : "banners/ImranElephantTrunk2.jpg"
 permalink           : "/jobs/"
 
 ---
